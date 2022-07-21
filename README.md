@@ -7,3 +7,5 @@ Hey 👋, I'm just a computer science student, as long as it involves programmin
 
 Other areas too, but just a little less.
 
+---
+For now, the page uses a template designed by [Nicolas Meuzard](https://dribbble.com/shots/4342703-Minimal-resume-freebie-for-junior-self-taught-people)
